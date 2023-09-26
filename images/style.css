@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head1{
+    text-align: center;
+    margin-top: 40px;
+}
+.super1{
+    width: 350px;
+    height: 240px;
+    background-color: hsl(0, 0%, 98%);
+}
+.super2{
+    width: 350px;
+    height: 240px;
+    background-color: hsl(0, 0%, 98%);
+}
+
+.maindd{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 75px;
+    margin-top: 400px;
+    align-content: center;
+}
